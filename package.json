@@ -18,14 +18,14 @@
     "react-component",
     "github-calendar"
   ],
-  "contributors": {
+  "contributors": [
     {
       "name": "philipwhiuk",
       "email": "philip@whiuk.com",
       "url": "https://philipwhiuk.github.io/"
     },
     "axetroy"
-  },
+  ],
   "repository": "github:philipwhiuk/react-github-calendar",
   "license": "MIT",
   "dependencies": {

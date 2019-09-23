@@ -18,7 +18,7 @@ yarn add @philipwhiuk/react-github-calendar
 
 ```jsx harmony
 import React, { Component } from 'react';
-import ReactGithubCalendar from '@axetroy/react-github-calendar';
+import ReactGithubCalendar from '@philipwhiuk/react-github-calendar';
 
 class App extends Component {
   render() {
@@ -41,11 +41,11 @@ class App extends Component {
 ## Run the Demo
 
 ```bash
-git clone https://github.com/axetroy/react-github-calendar.git
+git clone https://github.com/philipwhiuk/react-github-calendar.git
 yarn
 yarn start
 ```
 
 ### License
 
-The [MIT License](https://github.com/axetroy/react-github-calendar/blob/master/LICENSE)
+The [MIT License](https://github.com/philipwhiuk/react-github-calendar/blob/master/LICENSE)

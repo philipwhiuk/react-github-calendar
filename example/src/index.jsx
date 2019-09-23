@@ -6,7 +6,7 @@ const element = document.createElement('div');
 document.body.appendChild(element);
 render(
   <div>
-    <ReactGithubCalendar name="axetroy" />
+    <ReactGithubCalendar name="philipwhiuk" />
   </div>,
   element
 );
