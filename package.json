@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "github-calendar wrapper component for react",
   "main": "index.js",
+  "homepage": "https://github.com/philipwhiuk/react-github-calendar#readme",
+  "bugs": {
+    "url" : "https://github.com/philipwhiuk/react-github-calendar/issues",
+    "email" : "philip@whiuk.com"
+  },
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js",
     "dev": "rimraf lib && webpack --config webpack.config.prod.js --display-error-details --progress --colors --watch",
@@ -13,7 +18,15 @@
     "react-component",
     "github-calendar"
   ],
-  "author": "philipwhiuk",
+  "contributors": {
+    {
+      "name": "philipwhiuk",
+      "email": "philip@whiuk.com",
+      "url": "https://philipwhiuk.github.io/"
+    },
+    "axetroy"
+  },
+  "repository": "github:philipwhiuk/react-github-calendar"
   "license": "MIT",
   "dependencies": {
     "github-calendar": "^1.2.0"

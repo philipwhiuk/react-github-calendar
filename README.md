@@ -4,10 +4,14 @@
 
 [github-calendar](https://github.com/IonicaBizau/github-calendar) wrapper component for react
 
+## History
+
+* Forked from https://github.com/axetroy/react-github-calendar
+
 ## Install
 
 ```bash
-yarn add @axetroy/react-github-calendar
+yarn add @philipwhiuk/react-github-calendar
 ```
 
 ## Usage
@@ -33,7 +37,7 @@ class App extends Component {
 - name: string
 
 > Github name
-    
+
 ## Run the Demo
 
 ```bash
